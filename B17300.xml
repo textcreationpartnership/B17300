@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the sign of the Blew Ball in Salsbury Court next door to the Ben-Johnsons Head near Fleet-street. Liveth a German gentlewoman, of above thirty years experience in physical practice, that cures all the following distempers, ...</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17300</idno><idno type="EEBO-CITATION">99888916</idno>
+  <idno type="VID">196044</idno>
+  <idno type="EEBO-PROQUEST">2240901916</idno>
+  
+            <idno type="STC">Wing A4101B</idno>
+            <idno type="STC">Interim Tract Supplement Guide 551.a.32[52]</idno>
+            <idno type="STC">ESTC R232511</idno>
+            <idno type="PROQUEST">ocm99888916</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888916e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17300)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196044)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:2[52])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the sign of the Blew Ball in Salsbury Court next door to the Ben-Johnsons Head near Fleet-street. Liveth a German gentlewoman, of above thirty years experience in physical practice, that cures all the following distempers, ...</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1675?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  England --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_medical_cures_and_cosmetics">
+            <pb facs="tcp:196044:1"/>
+            <head>At the Sign of the <hi>Blew Ball</hi> in <hi>Salsbury Court</hi> next Door to the <hi>Ben-Johnsons Head</hi> near <hi>Fleet-Street.</hi>
+            </head>
+            <p>LIveth a <hi>German</hi> Gentlewoman, of above Thirty Years Experience in physical Practice, that Cures all the following Distempers, R<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>umatisms, Cold and Phlegmatic Stomachs, VVindy and tedious Coughs, spitting of Blood, Tiffick, Consumptions, Melancholy, Va<g ref="char:EOLhyphen"/>pours, Giddiness or swimming in the Head, Agues, Fevers, VVind, Cholick, with several other Distempers. All Pains or Aches of the Limbs, or any part of the Body, Lameness, Contraction of the Nerves and Sinews, all such as cannot hold, or make VVater, with<g ref="char:EOLhyphen"/>out pain, Piles in the Fundament, Ulcers in the VVomb or Bladder.</p>
+            <p>She has an Excellent Eye-water, good for all sorts of Sore-Eyes, as Redness, Running of the Eyes, Pearls, Films, VVebs, or any Dimness of Sight, which (by God's Blessing) she infallibly Cures.</p>
+            <p>The Stone in the Kidneys or Bladder, she cures in a very short time, by Medicines suitable to the Contitution of the Patients Bo<g ref="char:EOLhyphen"/>dies, which dissolve the Stone, and bring it away by Urine.</p>
+            <p>She likewise Cures Women and Maids of many Infirmities pecu<g ref="char:EOLhyphen"/>liar to the <hi>Sex,</hi> such as Green sickness, Stoppage or Overflowing of the Course of N<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ture; and helps the VV<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ites and Weakness of the Back, <hi>&amp;c.</hi> She has an infallible Medicine to help Barren Women to Conception, that have been Married several Years. And she has also a powerful Remedy to prevent Miscarriage.</p>
+            <pb facs="tcp:196044:2"/>
+            <p>FOr the speedy and effectual Cure of the POX, or <hi>French</hi> Disease or any of its malignant Symptoms, she has a new, safe, and easie Me<g ref="char:EOLhyphen"/>thod, without Fluxing or Hindrance of Business, curing the most inveterate Pox, cleansing and sweetning the whole Mass of Blood, car<g ref="char:EOLhyphen"/>rying of by insensible Transpiration all the Venom of the Distemper, leaving the Body sound and vigorous And tho the Parient has been in the hands of others, and almost spoiled by them, she doubts not but (by God's Help) she shall Restore them again to their former Health.</p>
+            <p>She also cures the most inveterate Clap, or virulent Running of the Reins, with care and safety in a very few days.</p>
+            <p>She also cures all Crooked and Deformed People, whether Young or Old, by a new Method, with as much ease as if they had nothin<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, on.</p>
+            <p>ANother thing she excells in, in her Cosm<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ticks for the Face, that beautifys it to admiration, and makes Old People look Young, without the least prejudice to the Skin, so that if any Gentlewoman desires it, she will tast it her self before her face: Tis of that singular Virtue that neither Water can wash it off, nor Fire or Sweat make it perceptible. She also takes away all Redness or Pimples of the Face, Freckles, Morphew, and Tanns; And has an admirab e Powder and Water that makes the Teeth as white as Ivory, fastens loose Teeth, gives present Ease in the Tooth-ach, and cures the Scurvy.</p>
+            <p>She Resolves to her own Sex, all manner of Lawful Questions.</p>
+            <p>Her Hours are from <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> till <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in the morning, and from <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> till <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at Night.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
